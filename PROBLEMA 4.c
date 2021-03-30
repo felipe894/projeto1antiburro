@@ -1,7 +1,7 @@
 // LER ARQUIVO E FAZER MEDIA MASCULINA E FEMININA, E COMPARAR
 #include <stdio.h>
 
-// codigo atualizado
+// codigo atualizado 2 mudando de branch
 int main()
 {
     char c,nomedoarquivo[1000];
